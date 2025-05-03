@@ -1,0 +1,5 @@
+# 激活
+.\.venv\Scripts\activate
+
+# 关闭
+deactivate
